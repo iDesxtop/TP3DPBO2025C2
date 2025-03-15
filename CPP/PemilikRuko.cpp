@@ -14,7 +14,7 @@ private:
     string NPWP;
     string rekeningBank;
     int lamaMenjadi;
-    list<Ruko> listRuko;
+    vector<Ruko> listRuko;
 public:
     PemilikRuko()
     {
@@ -23,7 +23,7 @@ public:
     }
 
 
-    PemilikRuko(string nama, int usia, string alamat, string noTelp, string NPWP, string rekeningBank, int lamaMenjadi, list<Ruko> listRuko) : Orang(nama, usia, alamat, noTelp)
+    PemilikRuko(string nama, int usia, string alamat, string noTelp, string NPWP, string rekeningBank, int lamaMenjadi, vector<Ruko> listRuko) : Orang(nama, usia, alamat, noTelp)
     {
         this->NPWP = NPWP;
         this->rekeningBank = rekeningBank;
@@ -44,7 +44,7 @@ public:
         this->lamaMenjadi = lamaMenjadi;
     }
 
-    void setListRuko(list<Ruko> listRuko) {
+    void setListRuko(vector<Ruko> listRuko) {
         this->listRuko = listRuko;
     }
 
@@ -61,7 +61,7 @@ public:
         return this->lamaMenjadi;
     }
 
-    list<Ruko> getListRuko() {
+    vector<Ruko> getListRuko() {
         return this->listRuko;
     }
 
