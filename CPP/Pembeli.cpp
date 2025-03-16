@@ -13,7 +13,7 @@ class Pembeli : public Orang
 {
 private:
     string noPembelian;
-    string tanggalPebelian;
+    string tanggalPembelian;
     Komputer komputerDibeli;
     Ruko rukoPembelian;
 public:
@@ -24,10 +24,10 @@ public:
     }
 
 
-    Pembeli(string nama, int usia, string alamat, string noTelp, string noPembelian, string tanggalPebelian, Komputer komputerDibeli, Ruko rukoPembelian) : Orang(nama, usia, alamat, noTelp)
+    Pembeli(string nama, int usia, string alamat, string noTelp, string noPembelian, string tanggalPembelian, Komputer komputerDibeli, Ruko rukoPembelian) : Orang(nama, usia, alamat, noTelp)
     {
         this->noPembelian = noPembelian;
-        this->tanggalPebelian = tanggalPebelian;
+        this->tanggalPembelian = tanggalPembelian;
         this->komputerDibeli = komputerDibeli;
         this->rukoPembelian = rukoPembelian;
     }
@@ -38,7 +38,7 @@ public:
     }
     
     void setTanggalPembelian(string tanggalPembelian) {
-        this->tanggalPebelian = tanggalPembelian;
+        this->tanggalPembelian = tanggalPembelian;
     }
     
     void addKomputer(Komputer komputerDibeli) {
@@ -55,7 +55,7 @@ public:
     }
     
     string getTanggalPembelian() {
-        return this->tanggalPebelian;
+        return this->tanggalPembelian;
     }
     
     Komputer getKomputerDibeli() {

@@ -1,3 +1,13 @@
 /.vscode
 /ide.txt
 CPP/run.exe
+PY/__pycache__/Cpu.cpython-311.pyc
+PY/__pycache__/Harddrive.cpython-311.pyc
+PY/__pycache__/Komponen.cpython-311.pyc
+PY/__pycache__/Komputer.cpython-311.pyc
+PY/__pycache__/Orang.cpython-311.pyc
+PY/__pycache__/PegawaiRuko.cpython-311.pyc
+PY/__pycache__/Pembeli.cpython-311.pyc
+PY/__pycache__/PemilikRuko.cpython-311.pyc
+PY/__pycache__/Ram.cpython-311.pyc
+PY/__pycache__/Ruko.cpython-311.pyc

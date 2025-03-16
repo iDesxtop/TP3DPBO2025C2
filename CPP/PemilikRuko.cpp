@@ -1,7 +1,7 @@
 #pragma once
 #include <iostream>
 #include <string>
-#include <list>
+#include <vector>
 #include "Orang.cpp"
 #include "Ruko.cpp"
 
