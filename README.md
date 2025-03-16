@@ -3,7 +3,7 @@
 Saya Muhammad Alvinza dengan NIM 2304879 mengerjakan Tugas Praktikum 3 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## Diagram
-![Diagram](https://github.com/user-attachments/assets/3c3bf29a-312b-402b-b387-5a373a934bda)
+![Diagram](https://github.com/user-attachments/assets/49a1e776-abf8-4fd1-80a5-c9371d33b93f)
 
 ## Desain Program
 Berikut adalah Desain programnya
