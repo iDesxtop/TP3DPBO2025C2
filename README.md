@@ -49,7 +49,7 @@ noTelp: nomor telepon yang dimiliki orang tersebut
 Setter dan Getter untuk setiap Variabel
 ### PemilikRuko
 NPWP: Nomor NPWP yang dimiliki
-rekeningBank: nomor rekening bank pemilik ruko
+rekeningBank: nama bank pemilik ruko
 lamaMenjadi: lama sudah menjadi pemilik ruko
 listRuko: list object ruko yang dimiliki
 
